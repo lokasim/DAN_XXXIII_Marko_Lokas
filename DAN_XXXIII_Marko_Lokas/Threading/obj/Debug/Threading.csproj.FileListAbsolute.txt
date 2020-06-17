@@ -1,0 +1,7 @@
+C:\Users\panonit\Desktop\DAN_XXXIII_Marko_Lokas\DAN_XXXIII_Marko_Lokas\Threading\bin\Debug\Threading.exe.config
+C:\Users\panonit\Desktop\DAN_XXXIII_Marko_Lokas\DAN_XXXIII_Marko_Lokas\Threading\bin\Debug\Threading.exe
+C:\Users\panonit\Desktop\DAN_XXXIII_Marko_Lokas\DAN_XXXIII_Marko_Lokas\Threading\bin\Debug\Threading.pdb
+C:\Users\panonit\Desktop\DAN_XXXIII_Marko_Lokas\DAN_XXXIII_Marko_Lokas\Threading\obj\Debug\Threading.csprojAssemblyReference.cache
+C:\Users\panonit\Desktop\DAN_XXXIII_Marko_Lokas\DAN_XXXIII_Marko_Lokas\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+C:\Users\panonit\Desktop\DAN_XXXIII_Marko_Lokas\DAN_XXXIII_Marko_Lokas\Threading\obj\Debug\Threading.exe
+C:\Users\panonit\Desktop\DAN_XXXIII_Marko_Lokas\DAN_XXXIII_Marko_Lokas\Threading\obj\Debug\Threading.pdb
